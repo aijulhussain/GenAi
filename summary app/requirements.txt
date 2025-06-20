@@ -1,0 +1,14 @@
+validators==0.28.1
+youtube_transcript_api
+pandas
+openai
+streamlit
+langchain
+langchain-openai
+python-dotenv
+langchain_community
+langchain_core
+langchain_groq
+unstructured
+pytube
+nltk
